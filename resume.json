@@ -1,26 +1,19 @@
 {
   "data_lang": "zh-CN",
   "ga_id": "UA-63818301-2",
-  "resume_title": "张秋怡 - 个人简历",
-  "name": "张秋怡",
+  "resume_title": "李萌 - 个人简历",
+  "name": "李萌",
   "repo": "https://github.com/joyeecheung/resume.git",
   "job_description": ["前端工程师", "软件工程师"],
   "contact": {
-    "email": "joyeec9h3@gmail.com",
+    "email": "495842963@qq.com",
     "wechat": {
-      "id": "joyee-cheung",
+      "id": "limeng1816",
       "qrcode": "static/wechat.svg"
     },
     "sinaweibo": {
-      "id": "SYSU_Joyee",
-      "url": "http://weibo.com/2930876843"
+      "id": "西夏萌主",
     },
-    "github": {
-      "id": "joyeecheung"
-    },
-    "blog": {
-      "url": "http://joyeecheung.cnblogs.com"
-    }
   },
   "links": [{
     "type": "repo",
@@ -39,7 +32,7 @@
   }],
   "education": [{
     "type": "undergraduate",
-    "name": "中山大学",
+    "name": "哈尔滨学院",
     "major": "软件工程",
     "start": "2012",
     "end": "2016",
@@ -53,11 +46,11 @@
     "certificate": [{
       "type": "CET-4",
       "full": "710",
-      "score": "679"
+      "score": "488"
     }, {
       "type": "CET-6",
       "full": "710",
-      "score": "616"
+      "score": "425"
     }],
     "description": [
       "能流畅阅读英文专业书籍、文档及其他资料",
@@ -68,9 +61,9 @@
   "experience": [{
     "type": "internship",
     "techtype": "frontend",
-    "place": "阿里巴巴 B2B-ICBU 数据应用部",
-    "start": "2015.07",
-    "end": "至今",
+    "place": "北京三快在线科技有限公司 美团外卖事业部",
+    "start": "2015.09",
+    "end": "2016.05",
     "name": "前端开发",
     "description": [
       "开发支持 i18n 的数据可视化组件",
@@ -82,12 +75,12 @@
   }, {
     "type": "internship",
     "techtype": "frontend",
-    "place": "埃森哲广州 CDC",
-    "start": "2014.08",
-    "end": "2014.09",
+    "place": "北京路玺优讯科技有限公司 CityHunter部门",
+    "start": "2015.06",
+    "end": "2015.09",
     "name": "前端开发",
     "description": [
-      "参与某集团内部办公系统（OA）的前端开发，基于 `jQuery UI` 与 `Bootstrap` 实现前端组件及数据交互",
+      "参与面包旅行内部办公系统（OA）的前端开发，基于 `jQuery UI` 与 `Bootstrap` 实现前端组件及数据交互",
       "解决遗留的 bug 及浏览器兼容问题（`IE8+`）",
       "使用 `Grunt` 及 `Less` 完成皮肤开发"
     ],
@@ -96,7 +89,7 @@
   }, {
     "type": "internship",
     "techtype": "nodejs",
-    "place": "东西科技",
+    "place": "东软睿道",
     "start": "2014.03",
     "end": "2014.06",
     "name": "Node.js 开发",
@@ -112,8 +105,6 @@
     "techtype": "frontend",
     "project_type": "personal",
     "name": "Resume",
-    "source": "https://github.com/joyeecheung/resume",
-    "demo": "http://joyeecheung.github.io/resume/",
     "description": [
       "这份在线简历的生成器",
       "从 JSON 读取数据，使用 `Jade` 模板生成 HTML，`Less` 生成**响应式**样式",
@@ -126,8 +117,6 @@
     "techtype": "frontend",
     "project_type": "personal",
     "name": "My Tech Diary",
-    "source": "https://github.com/joyeecheung/diary",
-    "demo": "http://joyeecheung.github.io/diary/",
     "description": [
       "一个技术日记站点生成器，从 `git submodule` 中读取 `Markdown` 文件，结合 `Jade` 模板，生成静态站点",
       "通过 `PostCSS` 将依照实验性 CSS 标准编写的代码转译使用",
@@ -141,7 +130,6 @@
     "techtype": "frontend",
     "project_type": "personal",
     "name": "Virtual Bookcase",
-    "source": "https://github.com/joyeecheung/virtual-bookcase",
     "description": [
       "基于 `Three.js` 实现的 3D 虚拟图书室",
       "使用 `Express` 与 `MongoDB` 提供图书数据 API",
